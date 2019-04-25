@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+.menu-block {
+  padding: 1rem;
+
+}
+
+.menu-item {
+  padding: 1rem;
+  border: 1px solid #000;
+  position: relative;
+}
+
+.menu-item h4 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 5rem;
+  margin: 0;
+}
+
+.beef {
+  background-color: #C62828;
+  color: #fff;
+}
+
+.chicken {
+  background-color: #ae5252;
+  color: #fff;
+}
+
+.sushi {
+  background-color: #FFF3E0;
+  color: #000;
+}
+
+.menu-item-info {
+  padding-top: 1rem;
+}
+
+.center-text {
+  text-align: center;
+}
